@@ -1,2 +1,2 @@
 # CSYE7200
-Public repository without solutions for CSYE7200 333333
+Public repository without solutions for CSYE7200
